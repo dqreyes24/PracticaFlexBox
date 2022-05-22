@@ -1,0 +1,29 @@
+#programador {
+    width: 600px;
+    height: 400px;
+}
+
+#codervideo {
+    width: 600px;
+    height: 400px;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content:space-evenly;
+}
